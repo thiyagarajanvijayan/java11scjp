@@ -22,6 +22,7 @@ public class StringPractice {
 				} else {
 					System.out.println("Both String are NOT equal");
 					//git practice
+					//Testing git fetch
 				}
 				
 			}
