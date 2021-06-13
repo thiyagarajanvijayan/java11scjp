@@ -19,6 +19,8 @@ public class StringPractice {
 				if(name.equals(sname)) {
 					System.out.println("Both String are Same name.equalssname");
 				
+				} else {
+					System.out.println("Both String are NOT equal");
 				}
 				
 			}
