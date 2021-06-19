@@ -2,6 +2,7 @@ package com.learning.java11.scjp.varargs;
 
 public class VarArgs {
 
+	//Testing GIT in Eclipse.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(sub());
